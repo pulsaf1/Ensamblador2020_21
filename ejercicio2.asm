@@ -2,7 +2,7 @@ section .data
 msg db "Escribe tu nombre:"
 msg2 db "Hola "
 
-section .bss
+section .bss 
 nombre resb 50
 
 section .text
