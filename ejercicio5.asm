@@ -1,3 +1,10 @@
+; ******************************************************************
+; * Ejercicio5.asm
+; * Curso de Especialización en Ciberseguridad IES Campanillas
+; * Autor. Gregorio Coronado Morón
+; * Fecha. 02/12/2020
+; * ****************************************************************
+
 section .bss
 
 section .data
@@ -8,7 +15,7 @@ section .text
 global _start
 _start:
 
-; Imprimimos el numero
+; Imprimimos el numero grande
 mov rax, 4
 mov rbx, 1
 mov rcx, numero

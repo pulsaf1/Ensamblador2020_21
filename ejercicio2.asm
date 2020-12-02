@@ -1,3 +1,10 @@
+; ******************************************************************
+; * Ejercicio2.asm
+; * Curso de Especialización en Ciberseguridad IES Campanillas
+; * Autor. Gregorio Coronado Morón
+; * Fecha. 02/12/2020
+; * ****************************************************************
+
 section .data
 msg db "Escribe tu nombre:"
 msg2 db "Hola "

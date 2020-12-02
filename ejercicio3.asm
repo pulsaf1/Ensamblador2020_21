@@ -1,4 +1,12 @@
+; ******************************************************************
+; * Ejercicio3.asm
+; * Curso de Especialización en Ciberseguridad IES Campanillas
+; * Autor. Gregorio Coronado Morón
+; * Fecha. 02/12/2020
+; * ****************************************************************
+
 section .bss
+
 nombre resb 50
 msg resb 18 
 msg2 resb 5 

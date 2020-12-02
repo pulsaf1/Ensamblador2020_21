@@ -1,4 +1,9 @@
-section .bss
+; ******************************************************************
+; * Ejercicio4.asm
+; * Curso de Especialización en Ciberseguridad IES Campanillas
+; * Autor. Gregorio Coronado Morón
+; * Fecha. 02/12/2020
+; * ****************************************************************
 
 section .data
 numero db "0", 10
