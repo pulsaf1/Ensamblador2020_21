@@ -8,7 +8,7 @@
 Servicio equ 80h
 
 section .bss
-imsg resb 40  ; Variable donde vamos a guardar la cadena msg alrevés.
+imsg resb 40  ;Variable donde vamos a guardar la cadena msg alrevés.
 
 
 section .data
